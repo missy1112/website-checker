@@ -1,0 +1,4 @@
+https://example.com
+https://google.com
+https://the-internet.herokuapp.com/
+https://thiswebsitedoesnotexist123.com
